@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  align-items:center;
+  color: #60dafb;
+  background-color: black;
+}
+
+.App .logo {
+  height: 1em;
+}
